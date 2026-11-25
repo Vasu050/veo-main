@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain-google-genai
+langchain-core
+pydantic>=2
+requests
+mcp>=1.12,<2.0
+google-genai
+google-auth
+imageio-ffmpeg
+pillow>=12.2.0,<13.0
